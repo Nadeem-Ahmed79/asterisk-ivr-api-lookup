@@ -1,0 +1,21 @@
+{
+  "_note": "Fictional test data only. Never put real beneficiary data in this repository.",
+  "cases": [
+    {
+      "case_id": "100001",
+      "pin": "4321",
+      "msisdns": ["252610000001"],
+      "registration_status": "REGISTERED",
+      "next_distribution_date": "20261105",
+      "case_status": "IN_PROGRESS"
+    },
+    {
+      "case_id": "100002",
+      "pin": "1111",
+      "msisdns": ["252610000002"],
+      "registration_status": "PENDING",
+      "next_distribution_date": null,
+      "case_status": "NONE"
+    }
+  ]
+}
